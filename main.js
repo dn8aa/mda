@@ -4,6 +4,7 @@ console.log('fdshfjkdsfhlkh');
 
 //12343
 // fdwfwefwefwefewf
+// sultan moya suchka
 
 //* переменные для инпутов
 let title = document.querySelector("#title");
