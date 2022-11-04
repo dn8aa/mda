@@ -1,4 +1,5 @@
 const API = "http://localhost:8000/products";
+console.log(API);
 //* переменные для инпутов
 let title = document.querySelector("#title");
 let price = document.querySelector("#price");
