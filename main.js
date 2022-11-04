@@ -2,7 +2,8 @@ const API = "http://localhost:8000/products";
 console.log(API);
 console.log('fdshfjkdsfhlkh');
 
-//12343213
+//12343
+// fdwfwefwefwefewf
 
 //* переменные для инпутов
 let title = document.querySelector("#title");
